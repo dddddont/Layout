@@ -1,0 +1,127 @@
+{
+  "page": 7,
+  "image_path": "D:\\109\\datapirture\\red_he_output\\images\\page_07.png",
+  "blocks": [
+    {
+      "block_id": "7.0",
+      "page": 7,
+      "bbox": [
+        179,
+        305,
+        2121,
+        580
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.1",
+      "page": 7,
+      "bbox": [
+        179,
+        952,
+        1045,
+        316
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.2",
+      "page": 7,
+      "bbox": [
+        179,
+        1284,
+        1045,
+        120
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.3",
+      "page": 7,
+      "bbox": [
+        179,
+        1412,
+        1045,
+        1164
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.4",
+      "page": 7,
+      "bbox": [
+        179,
+        2591,
+        685,
+        62
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.5",
+      "page": 7,
+      "bbox": [
+        179,
+        2670,
+        1045,
+        308
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.6",
+      "page": 7,
+      "bbox": [
+        1257,
+        952,
+        1047,
+        465
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.7",
+      "page": 7,
+      "bbox": [
+        1257,
+        1476,
+        1044,
+        946
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.8",
+      "page": 7,
+      "bbox": [
+        1257,
+        2533,
+        384,
+        62
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.9",
+      "page": 7,
+      "bbox": [
+        1257,
+        2620,
+        1045,
+        366
+      ],
+      "label": null
+    },
+    {
+      "block_id": "7.10",
+      "page": 7,
+      "bbox": [
+        1209,
+        3114,
+        133,
+        56
+      ],
+      "label": null
+    }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "page": 1,
+  "image_path": "D:\\109\\datapirture\\red_he_output\\images\\page_01.png",
+  "blocks": [
+    {
+      "block_id": "1.0",
+      "page": 1,
+      "bbox": [
+        256,
+        13,
+        227,
+        140
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.1",
+      "page": 1,
+      "bbox": [
+        929,
+        434,
+        623,
+        77
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.2",
+      "page": 1,
+      "bbox": [
+        211,
+        592,
+        2085,
+        246
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.3",
+      "page": 1,
+      "bbox": [
+        584,
+        944,
+        235,
+        59
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.4",
+      "page": 1,
+      "bbox": [
+        178,
+        1053,
+        1046,
+        1356
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.5",
+      "page": 1,
+      "bbox": [
+        188,
+        2500,
+        365,
+        59
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.6",
+      "page": 1,
+      "bbox": [
+        185,
+        2588,
+        1032,
+        310
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.7",
+      "page": 1,
+      "bbox": [
+        185,
+        2911,
+        627,
+        71
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.8",
+      "page": 1,
+      "bbox": [
+        592,
+        6,
+        1493,
+        155
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.9",
+      "page": 1,
+      "bbox": [
+        1263,
+        958,
+        1033,
+        556
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.10",
+      "page": 1,
+      "bbox": [
+        1263,
+        1595,
+        1033,
+        965
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.11",
+      "page": 1,
+      "bbox": [
+        1266,
+        2591,
+        585,
+        65
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.12",
+      "page": 1,
+      "bbox": [
+        1263,
+        2673,
+        1033,
+        310
+      ],
+      "label": null
+    },
+    {
+      "block_id": "1.13",
+      "page": 1,
+      "bbox": [
+        1215,
+        3117,
+        120,
+        50
+      ],
+      "label": null
+    }
+  ]
+}

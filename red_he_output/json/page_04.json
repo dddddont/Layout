@@ -1,0 +1,149 @@
+{
+  "page": 4,
+  "image_path": "D:\\109\\datapirture\\red_he_output\\images\\page_04.png",
+  "blocks": [
+    {
+      "block_id": "4.0",
+      "page": 4,
+      "bbox": [
+        186,
+        304,
+        2109,
+        346
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.1",
+      "page": 4,
+      "bbox": [
+        179,
+        662,
+        2123,
+        348
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.2",
+      "page": 4,
+      "bbox": [
+        174,
+        1021,
+        2132,
+        496
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.3",
+      "page": 4,
+      "bbox": [
+        173,
+        1534,
+        2135,
+        471
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.4",
+      "page": 4,
+      "bbox": [
+        174,
+        2071,
+        1057,
+        477
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.5",
+      "page": 4,
+      "bbox": [
+        217,
+        2576,
+        1012,
+        221
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.6",
+      "page": 4,
+      "bbox": [
+        217,
+        2817,
+        1011,
+        171
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.7",
+      "page": 4,
+      "bbox": [
+        1204,
+        3112,
+        139,
+        60
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.8",
+      "page": 4,
+      "bbox": [
+        1335,
+        2071,
+        674,
+        71
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.9",
+      "page": 4,
+      "bbox": [
+        1295,
+        2146,
+        1011,
+        221
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.10",
+      "page": 4,
+      "bbox": [
+        1295,
+        2370,
+        1011,
+        122
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.11",
+      "page": 4,
+      "bbox": [
+        1295,
+        2496,
+        1014,
+        163
+      ],
+      "label": null
+    },
+    {
+      "block_id": "4.12",
+      "page": 4,
+      "bbox": [
+        1252,
+        2668,
+        1055,
+        320
+      ],
+      "label": null
+    }
+  ]
+}

@@ -1,0 +1,204 @@
+{
+  "page": 6,
+  "image_path": "D:\\109\\datapirture\\red_he_output\\images\\page_06.png",
+  "blocks": [
+    {
+      "block_id": "6.0",
+      "page": 6,
+      "bbox": [
+        200,
+        307,
+        1013,
+        687
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.1",
+      "page": 6,
+      "bbox": [
+        182,
+        1014,
+        1038,
+        835
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.2",
+      "page": 6,
+      "bbox": [
+        182,
+        1917,
+        1038,
+        412
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.3",
+      "page": 6,
+      "bbox": [
+        182,
+        2345,
+        452,
+        67
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.4",
+      "page": 6,
+      "bbox": [
+        182,
+        2423,
+        1040,
+        561
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.5",
+      "page": 6,
+      "bbox": [
+        1212,
+        3116,
+        124,
+        52
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.6",
+      "page": 6,
+      "bbox": [
+        1290,
+        308,
+        988,
+        532
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.7",
+      "page": 6,
+      "bbox": [
+        1260,
+        860,
+        1038,
+        633
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.8",
+      "page": 6,
+      "bbox": [
+        1260,
+        1554,
+        526,
+        67
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.9",
+      "page": 6,
+      "bbox": [
+        1260,
+        1631,
+        1036,
+        113
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.10",
+      "page": 6,
+      "bbox": [
+        1489,
+        1755,
+        578,
+        78
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.11",
+      "page": 6,
+      "bbox": [
+        2197,
+        1768,
+        99,
+        61
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.12",
+      "page": 6,
+      "bbox": [
+        1260,
+        1851,
+        1038,
+        461
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.13",
+      "page": 6,
+      "bbox": [
+        1260,
+        2326,
+        514,
+        67
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.14",
+      "page": 6,
+      "bbox": [
+        1260,
+        2403,
+        1038,
+        205
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.15",
+      "page": 6,
+      "bbox": [
+        1610,
+        2597,
+        337,
+        69
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.16",
+      "page": 6,
+      "bbox": [
+        2197,
+        2603,
+        99,
+        61
+      ],
+      "label": null
+    },
+    {
+      "block_id": "6.17",
+      "page": 6,
+      "bbox": [
+        1260,
+        2672,
+        1038,
+        312
+      ],
+      "label": null
+    }
+  ]
+}

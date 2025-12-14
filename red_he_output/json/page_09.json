@@ -1,0 +1,50 @@
+{
+  "page": 9,
+  "image_path": "D:\\109\\datapirture\\red_he_output\\images\\page_09.png",
+  "blocks": [
+    {
+      "block_id": "9.0",
+      "page": 9,
+      "bbox": [
+        180,
+        292,
+        290,
+        65
+      ],
+      "label": null
+    },
+    {
+      "block_id": "9.1",
+      "page": 9,
+      "bbox": [
+        182,
+        376,
+        1044,
+        2609
+      ],
+      "label": null
+    },
+    {
+      "block_id": "9.2",
+      "page": 9,
+      "bbox": [
+        1260,
+        301,
+        1043,
+        1144
+      ],
+      "label": null
+    },
+    {
+      "block_id": "9.3",
+      "page": 9,
+      "bbox": [
+        1209,
+        3114,
+        133,
+        56
+      ],
+      "label": null
+    }
+  ]
+}
